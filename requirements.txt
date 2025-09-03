@@ -1,0 +1,22 @@
+# Core graph + LLM stack
+langgraph
+langchain
+langchain-openai
+langchain-community
+
+# Search integration (Tavily)
+langchain-tavily
+tavily-python
+
+# Azure TTS
+azure-cognitiveservices-speech
+
+# Retrieval helpers used by retrievers
+arxiv
+wikipedia
+
+# Media merge helper
+imageio-ffmpeg
+
+# Notebook niceties
+ipython
